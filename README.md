@@ -1,6 +1,3 @@
-Great! Given that you've used Three.js, React, Vite, and Tailwind CSS, here's a modified README template specifically tailored to these technologies:
-
-````markdown
 # 3D Portfolio Project
 
 ![Project Logo](./src/assets/3d-portfolio.png)
@@ -51,6 +48,7 @@ To run the project locally, use the following command:
 ```bash
 npm run dev
 ```
+
 ````
 
 Visit [http://localhost:3000](http://localhost:3000) in your browser to explore the 3D portfolio.
@@ -81,3 +79,4 @@ Feel free to reach out to me if you have any questions or feedback:
 ```
 
 ```
+````
