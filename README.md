@@ -31,14 +31,14 @@ Welcome to my 3D portfolio project! This project showcases my skills in 3D model
 
 Include a link to a live demo of your 3D portfolio project or embed a video showcasing its features. You can use platforms like GitHub Pages, Netlify, or Vercel for hosting.
 
-[View Demo](https://your-portfolio-demo-link.com)
+[View Demo](https://3d-portfolio-sidak.netlify.app/)
 
 ## Installation
 
 Follow these steps to set up the project locally:
 
-1. Clone the repository: `git clone https://github.com/SidakMarwah/your-3d-portfolio.git`
-2. Navigate to the project directory: `cd 3d-portfolio`
+1. Clone the repository: `git clone https://github.com/SidakMarwah/3d-Portfolio.git`
+2. Navigate to the project directory: `cd 3d-Portfolio`
 3. Install dependencies: `npm install`
 
 ## Usage
@@ -49,9 +49,7 @@ To run the project locally, use the following command:
 npm run dev
 ```
 
-````
-
-Visit [http://localhost:3000](http://localhost:3000) in your browser to explore the 3D portfolio.
+Visit [http://localhost:5173](http://localhost:5173) in your browser to explore the 3D portfolio.
 
 ## Technologies Used
 
@@ -72,11 +70,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to reach out to me if you have any questions or feedback:
 
-- Email: your.email@example.com
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- Email: sidakmarwah@gmail.com
 - LinkedIn: [linkedin.com/in/sidak-marwah-bb3626259](https://www.linkedin.com/in/sidak-marwah-bb3626259/)
-
-```
-
-```
-````
