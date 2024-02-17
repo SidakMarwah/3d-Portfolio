@@ -71,4 +71,4 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to reach out to me if you have any questions or feedback:
 
 - Email: sidakmarwah@gmail.com
-- LinkedIn: [linkedin.com/in/sidak-marwah-bb3626259](https://www.linkedin.com/in/sidak-marwah-bb3626259/)
+- LinkedIn: [linkedin.com/in/sidakmarwah](https://www.linkedin.com/in/sidakmarwah/)
